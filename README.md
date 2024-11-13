@@ -1,4 +1,4 @@
-# New-repo
+# FrontEnd_Background_Knowledge
 멋사 프론트엔드스쿨 5기 실습용 저장소
 
 프로젝트, 이슈 맘껏 활용하기!
